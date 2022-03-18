@@ -1,27 +1,13 @@
-# PokedexAngular
+# Frontend-challenge: POKEDEX
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+### Descripción
 
-## Development server
+Implementación de un pequeño proyecto basado en una Pokédex.
+(Un pokédex es un pequeño repositorio de Pokémon donde se pueden ver todos los Pokemons existentes)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Características:
 
-## Code scaffolding
+Mediante una vista de cuadrícula se muestran solo 20 Pokemones existentes en la API de Pokedex (https://pokeapi.co/).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Mockups
+Todos los elementos usan los elementos que se especifican en [diseño](https://drive.google.com/drive/folders/1s3r4O7KEMDTZqtmNJmesPpEdiNvlhFFg?usp=sharing).

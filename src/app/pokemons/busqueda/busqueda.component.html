@@ -1,0 +1,16 @@
+<!-- <h5>Buscar:</h5>
+<input type="text" class="form-control" placeholder="Buscar pokemon"
+(keyup.enter)="buscar()"
+#txtBuscar> -->
+
+<nav class="navbar navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand"></a>
+      <form class="d-flex">
+        <input class="form-control me-2 barraBuscar" type="search" placeholder="Buscar pokemon" aria-label="Search"
+        (keyup.enter)="buscar()"
+#txtBuscar>
+        <button class="btn botonBuscar" type="submit" (click)="buscar()">Buscar</button>
+      </form>
+    </div>
+  </nav>
